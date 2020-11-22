@@ -7,7 +7,7 @@ Smoke Testing for Parabank (dummy)
 
 To Run the program, makesure Cypress exists in your PC
 1. Open Cypress
-2. Load Folder from ..\Cypress\cypress\integration
+2. Load Folder from ..\cypress\integration
 3. Go to smoke folder and run smoke_test.js
 4. To change username and password, change it from the smoke_test.js script line 18-20 and 33-34
 
